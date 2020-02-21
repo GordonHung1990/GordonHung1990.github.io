@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/GordonResumeVueWeb/precache-manifest.1147af24ba28483c452cd29bbb81bf93.js"
+  "/precache-manifest.c38fcf707cc03fd7e06913e0a5b26958.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "gordon-resume"});
